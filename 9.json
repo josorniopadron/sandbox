@@ -131,8 +131,11 @@
                 ]
             },
             "properties": {
-                "name": "Sundance"
-            }
+                "name": "Sundance",
+                "fill": "#e3e3e3",
+                "fill-opacity": 0.5
+            },
+            "id": 0
         },
         {
             "type": "Feature",
@@ -872,8 +875,11 @@
                 ]
             },
             "properties": {
-                "name": "Frontier"
-            }
+                "name": "Frontier",
+                "fill": "#e3e3e3",
+                "fill-opacity": 0.5
+            },
+            "id": 1
         },
         {
             "type": "Feature",
@@ -1053,7 +1059,8 @@
                 ]
             },
             "properties": {
-                "name": "Alta Loma"
+                "name": "Alta Loma",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -1242,7 +1249,8 @@
                 ]
             },
             "properties": {
-                "name": "Sun Valley"
+                "name": "Sun Valley",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -1351,7 +1359,9 @@
                 ]
             },
             "properties": {
-                "name": "Oasis"
+                "name": "Oasis",
+                "fill": "#e3e3e3",
+                "fill-opacity": ""
             }
         },
         {
@@ -1572,8 +1582,10 @@
                 ]
             },
             "properties": {
-                "name": "Sun Valley"
-            }
+                "name": "Sun Valley",
+                "fill": "#e3e3e3"
+            },
+            "id": 5
         },
         {
             "type": "Feature",
@@ -1649,7 +1661,8 @@
                 ]
             },
             "properties": {
-                "name": "Marshall Ranch"
+                "name": "Marshall Ranch",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -2310,7 +2323,8 @@
                 ]
             },
             "properties": {
-                "name": "Sunset Heights"
+                "name": "Sunset Heights",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -4743,7 +4757,8 @@
                 ]
             },
             "properties": {
-                "name": "Zuni Hills"
+                "name": "Zuni Hills",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -5140,7 +5155,8 @@
                 ]
             },
             "properties": {
-                "name": "Coyote Hills"
+                "name": "Coyote Hills",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -5453,7 +5469,8 @@
                 ]
             },
             "properties": {
-                "name": "Apache"
+                "name": "Apache",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -5814,7 +5831,8 @@
                 ]
             },
             "properties": {
-                "name": "Desert Harbor"
+                "name": "Desert Harbor",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -6035,7 +6053,8 @@
                 ]
             },
             "properties": {
-                "name": "Pioneer"
+                "name": "Pioneer",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -6328,7 +6347,8 @@
                 ]
             },
             "properties": {
-                "name": "Foothills"
+                "name": "Foothills",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -6585,7 +6605,8 @@
                 ]
             },
             "properties": {
-                "name": "Paseo Verde"
+                "name": "Paseo Verde",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -7118,7 +7139,8 @@
                 ]
             },
             "properties": {
-                "name": "Sky View"
+                "name": "Sky View",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -7211,7 +7233,8 @@
                 ]
             },
             "properties": {
-                "name": "Oakwood"
+                "name": "Oakwood",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -7480,7 +7503,8 @@
                 ]
             },
             "properties": {
-                "name": "Desert Valley"
+                "name": "Desert Valley",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -7738,11 +7762,11 @@
             },
             "properties": {
                 "name": "Copperwood",
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
                 "fill": "#008ad9",
-                "fill-opacity": 0.5
+                "stroke": "#555555",
+                "fill-opacity": 0.5,
+                "stroke-width": 2,
+                "stroke-opacity": 1
             }
         },
         {
@@ -7847,7 +7871,10 @@
                 ]
             },
             "properties": {
-                "name": "Kachina"
+                "name": "Kachina",
+                "fill": "#e3e3e3",
+                "stroke-opacity": "",
+                "stroke-width": ""
             }
         },
         {
@@ -7992,7 +8019,8 @@
                 ]
             },
             "properties": {
-                "name": "Canyon"
+                "name": "Canyon",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -8901,7 +8929,12 @@
                 ]
             },
             "properties": {
-                "name": "Parkridge"
+                "name": "Parkridge",
+                "stroke": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "fill": "#e3e3e3",
+                "fill-opacity": ""
             },
             "id": 21
         },
@@ -12527,8 +12560,10 @@
                 ]
             },
             "properties": {
-                "name": "Lake Pleasant"
-            }
+                "name": "Lake Pleasant",
+                "fill": "#e3e3e3"
+            },
+            "id": 22
         },
         {
             "type": "Feature",
@@ -15284,7 +15319,8 @@
                 ]
             },
             "properties": {
-                "name": "Vistancia"
+                "name": "Vistancia",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -15673,7 +15709,8 @@
                 ]
             },
             "properties": {
-                "name": "Cheyenne"
+                "name": "Cheyenne",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -16794,7 +16831,12 @@
                 ]
             },
             "properties": {
-                "name": "Parkridge"
+                "name": "Parkridge",
+                "stroke": "",
+                "stroke-width": "",
+                "stroke-opacity": "",
+                "fill": "#e3e3e3",
+                "fill-opacity": ""
             },
             "id": 25
         },
@@ -17192,7 +17234,8 @@
                 ]
             },
             "properties": {
-                "name": "Santa Fe"
+                "name": "Santa Fe",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -17545,7 +17588,8 @@
                 ]
             },
             "properties": {
-                "name": "Peoria"
+                "name": "Peoria",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -17626,7 +17670,8 @@
                 ]
             },
             "properties": {
-                "name": "Sahuaro Ranch"
+                "name": "Sahuaro Ranch",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -17911,7 +17956,8 @@
                 ]
             },
             "properties": {
-                "name": "Ira A Murphy"
+                "name": "Ira A Murphy",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -17996,7 +18042,8 @@
                 ]
             },
             "properties": {
-                "name": "Heritage"
+                "name": "Heritage",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -18237,7 +18284,8 @@
                 ]
             },
             "properties": {
-                "name": "Cotton Boll"
+                "name": "Cotton Boll",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -18298,7 +18346,8 @@
                 ]
             },
             "properties": {
-                "name": "Desert Palms"
+                "name": "Desert Palms",
+                "fill": "#e3e3e3"
             }
         },
         {
@@ -18667,7 +18716,8 @@
                 ]
             },
             "properties": {
-                "name": "Country Meadows"
+                "name": "Country Meadows",
+                "fill": "#e3e3e3"
             }
         }
     ]
